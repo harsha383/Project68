@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    vertical-align: middle;
+    background-color: lightblue;
+}
+#marqueeStyle {
+    background-color: blue;
+    font-size: 20;
+    color: white;
+}
+#marqueeStyle:hover {
+    background-color: white;
+    font-size: 24px;
+    color: blue;
+    font-family: fantasy;
+}
+#schoolimg {
+    text-align: center;
+    vertical-align: middle;
+    width: 2000px;
+    height: 777px;
+    border-style:outset;
+    border-width: 10px;
+    border-color: red;
+}
+h2 {
+   color: blue;
+  text-align: center;
+  font-size: 50px;
+  font-variant: small-caps;
+  background-color: #81C784;
+  border-style: solid;
+  border-width: 5px;
+  border-color: blue;
+    font-family: serif;
+}
+h3 {
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+}
+h4 {
+    color: red;
+    text-align: center;
+    font-size: 24px;
+    font-family: serif;
+}
+h5 {
+    color: crimson;
+    text-align: center;
+    font-size: 18px;
+    font-family: serif; 
+}
